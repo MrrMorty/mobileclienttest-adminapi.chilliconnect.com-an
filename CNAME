@@ -1,0 +1,1 @@
+mobileclienttest-adminapi.chilliconnect.com
